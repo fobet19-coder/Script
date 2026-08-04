@@ -1,4 +1,4 @@
--- PEPA PIGG (short version)
+PEPA PIGG (short version)
 local P,R,U,C,L = game:GetService("Players"),game:GetService("RunService"),game:GetService("UserInputService"),workspace.CurrentCamera,game.Players.LocalPlayer
 local Aim,Silent,Aura,Anti,God,Int,Spd,Jmp = false,false,false,false,false,0.25,28,70
 
